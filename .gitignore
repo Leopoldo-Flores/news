@@ -1,2 +1,5 @@
 venv
 *__pycahe__*
+.env
+staticfiles
+db.sqlite3
